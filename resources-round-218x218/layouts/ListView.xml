@@ -1,0 +1,5 @@
+<layout id="ListView">
+	<label id="number" font="Graphics.FONT_XTINY" x="center" y="7%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_DK_GRAY" background="Graphics.COLOR_TRANSPARENT"/>
+    <label id="date" font="Graphics.FONT_LARGE" x="center" y="16%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+    <label id="time" font="Graphics.FONT_LARGE" x="center" y="29%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+</layout>

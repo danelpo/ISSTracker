@@ -1,0 +1,5 @@
+<layout id="InfoView">
+	<label id="Time" font="Graphics.FONT_SMALL" x="center" y="30%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+    <label id="Middle" font="Graphics.FONT_SMALL" x="center" y="45%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+    <label id="Direction" font="Graphics.FONT_SMALL" x="center" y="60%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+</layout>

@@ -1,0 +1,5 @@
+<layout id="LoadingScreen">
+    <label id="text" text="Loading user location" font="Graphics.FONT_TINY" x="center" y="center" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+    <label id="date" font="Graphics.FONT_SMALL" x="center" y="60%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+	<label id="nextViewing" font="Graphics.FONT_LARGE" x="center" y="35%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" background="Graphics.COLOR_TRANSPARENT"/>
+</layout>
